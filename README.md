@@ -1,6 +1,6 @@
 # NeuralDetect: AI-Powered Package Damage Detection
 
-![NeuralDetect Screenshot](frontend/src/assets/neuraldetect_screenshot.jpg)
+![NeuralDetect Project Banner](frontend/src/assets/project_banner.png)
 
 ### First Place Winner - Innovpost Hackathon (AI & Computer Vision Track)
 

@@ -1,0 +1,14 @@
+# Node / Vite dependencies
+frontend/node_modules/
+frontend/dist/
+.env*
+ 
+# Python dependencies and artifacts
+backend/venv/
+__pycache__/
+*.pyc
+
+# IDE / OS specific
+.vscode/
+.idea/
+.DS_Store
